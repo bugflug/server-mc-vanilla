@@ -1,0 +1,13 @@
+{
+  "id": "tab",
+  "name": "Tab",
+  "footer": [
+  ],
+  "header": [
+    "%server:tps_colored% <grey>tps</grey> %server:mspt_colored% <grey>mspt</grey>",
+    "<white>%server:online%/%server:max_players%</white>",
+    ""
+  ],
+  "hidden": false,
+  "permission": ""
+}

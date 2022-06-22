@@ -1,0 +1,14 @@
+!.gitignore
+!README.md
+
+# this is illegal to distribute lol
+versions
+
+# uneccessary temp stuff
+.fabric
+libraries
+logs
+modsold
+
+# u literally are not allowed to push this much data
+world
